@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Setting the stage for your analysis 
+description : In this section, you will install necessary packages and upload data. 
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
